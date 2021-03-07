@@ -1,0 +1,27 @@
+
+
+			---------------------------------
+			|	   System Closed	|
+			---------------------------------
+
+	E-Medi Shop is an Team Project, Develop by Team Unbeatable SpaceX.
+	Team from, 
+		PC-B		Batch 201
+		Dept. of CSE
+		Daffodil International University
+
+	Regurding on Course CSE-135, Data Structure Lab.
+	
+	Submited to,
+		Md. Reduanul Haque(Lecturer)
+		Dept. of CSE
+		Daffodil International University
+
+	Team Includes,
+		Md. Nayeem Ahmed Niloy
+		Mst. Umme Shefa Arda Tanzila
+		Md. Siam Al Shaad
+		Md. Fozle Rabby Fahim
+		Md. Motasaddique Al Talha
+
+	Code writer Al Talha..................

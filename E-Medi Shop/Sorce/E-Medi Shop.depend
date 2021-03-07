@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1608044718 source:d:\project\e-medi shop\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"Types.h"
+	"Utility.h"
+	"Work.h"
+
+1608042540 d:\project\e-medi shop\types.h
+
+1608044848 d:\project\e-medi shop\utility.h
+
+1608042983 d:\project\e-medi shop\systemoperation.h
+
+1608043056 d:\project\e-medi shop\customer.h
+
+1608044848 d:\project\e-medi shop\work.h
+
+1608044848 source:d:\project\e-medi shop\work.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"Types.h"
+	"Utility.h"
+	"Work.h"
+
+1608045149 source:d:\project\e-medi shop\sub.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"Types.h"
+	"Sub.h"
+	"Utility.h"
+	"Work.h"
+
+1608045149 d:\project\e-medi shop\sub.h
+
+1608045149 source:d:\project\e-medi shop\utility.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"Utility.h"
+
